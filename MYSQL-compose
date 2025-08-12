@@ -1,3 +1,8 @@
+# Example: How to set up MySQL using Docker Compose
+# This file demonstrates a basic MySQL container configuration.
+# Replace values in the .env file with your actual settings before running.
+
+
 mysql:
     container_name: name_mysql
     image: mysql:8.0
